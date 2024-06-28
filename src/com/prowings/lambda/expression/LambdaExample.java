@@ -13,7 +13,8 @@ public class LambdaExample {
             new Person("Shubham", 21),
             new Person("Ganesh", 20),
             new Person("Raju", 18),
-            new Person("Ganesh", 25)
+            new Person("Ganesh", 25),
+            new Person("Ram", 15)
         );
 
         // Filter and sort using lambda expressions
